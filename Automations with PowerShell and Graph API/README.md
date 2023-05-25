@@ -24,6 +24,7 @@ Key Takeaways:
 
 ## Links & Ressources
 
-- Scripts: https://github.com/FlorianSLZ/scloud/tree/main/Automations/AZ%20Automation%20with%20Managed%20Identity
+- Presentation:
 - Reccording: 
+- Scripts: https://github.com/FlorianSLZ/scloud/tree/main/Automations/AZ%20Automation%20with%20Managed%20Identity
 - Graph X-Ray, Browser Add-on: https://graphxray.merill.net/
