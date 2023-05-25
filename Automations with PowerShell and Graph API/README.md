@@ -15,12 +15,12 @@ Join us for an exciting session on the power of automation in the modern workpla
 In this session, we will dive into the world of PowerShell and the Graph API and explore how you can revolutionise your automation workflows. Learn how to use their capabilities to streamline processes, increase efficiency, and save valuable time.
 
 Key Takeaways:
-✅ The importance of automation
-✅ How to export and collect data
-✅ Which actions you can use as triggers
-✅ How to run automations
-✅ How to get graph calls from the UI
-✅ And we will show you and link to some examples 
+- ✅ The importance of automation
+- ✅ How to export and collect data
+- ✅ Which actions you can use as triggers
+- ✅ How to run automations
+- ✅ How to get graph calls from the UI
+- ✅ And we will show you and link to some examples 
 
 ## Links & Ressources
 
