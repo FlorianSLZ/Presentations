@@ -26,7 +26,7 @@ Key Takeaways:
 |   |   |
 |---|---|
 |Presentation|https://github.com/FlorianSLZ/Presentations/blob/main/Automations%20with%20PowerShell%20and%20Graph%20API/Automations%20with%20PowerShell%20and%20Graph%20API.pdf|
-|Reccording|tbd|
+|Reccording|https://youtu.be/zWnZ9c90HoQ|
 |Scripts|https://github.com/FlorianSLZ/scloud/tree/main/Automations/AZ%20Automation%20with%20Managed%20Identity|
 |Blogpost about demo|https://scloud.work/en/azure-automation-managed-identities/|
 |Graph X-Ray, Browser Add-on|https://graphxray.merill.net/|
