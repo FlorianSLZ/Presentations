@@ -5,7 +5,7 @@
 <table>
   <tbody>
     <tr>
-        <td align="center"><a href="https://github.com/FlorianSLZ"><img src="https://avatars.githubusercontent.com/u/38555854?v=4" width="100px;" alt="Florian Salzmann"/><br /><sub><b>Florian Salzmann</b></sub></a><br /><a href="https://twitter.com/FlorianSLZ/" title="Twitter">Twitter</a> <a href="https://www.linkedin.com/in/fsalzmann/" title="LinkedIn">LinkedIn</a></td>
+        <td align="center"><a href="https://github.com/FlorianSLZ"><img src="https://avatars.githubusercontent.com/u/38555854?v=4" width="100px;" alt="Florian Salzmann"/><br /><sub><b>Florian Salzmann</b></sub></a><br /><a href="https://twitter.com/FlorianSLZ/" title="Twitter">Twitter</a> | <a href="https://www.linkedin.com/in/fsalzmann/" title="LinkedIn">LinkedIn</a></td>
   </tbody>
 </table>
 
