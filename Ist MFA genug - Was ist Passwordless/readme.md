@@ -1,5 +1,5 @@
 # Ist MFA genug - Was ist Passwordless
-[German Session]
+[Swiss German Session]
 
 ## Speakers
 <table>
