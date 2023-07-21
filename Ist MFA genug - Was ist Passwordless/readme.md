@@ -1,4 +1,4 @@
-# Ist MFA genug - Was ist Passwordless
+# Ist MFA genug - Was ist Passwordless?
 [Swiss German Session]
 
 ## Speakers
